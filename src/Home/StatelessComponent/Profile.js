@@ -8,7 +8,7 @@ function Profile(props){
     const [cekData, setCek] = React.useState(false)
     
 
-    const saveHandle = async(name, age, adress) => {
+    const saveHandle = (name, age, adress) => {
        
      setData(prevState=>
                 [...prevState,

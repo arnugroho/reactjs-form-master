@@ -1,6 +1,6 @@
 import React from 'react';
 import {Route, Routes} from 'react-router-dom';
-import ProfileInput from "./Stateless Component/ProfileInput";
+import ProfileInput from "./StatelessComponent/ProfileInput";
 
 
 const Main = () => (
